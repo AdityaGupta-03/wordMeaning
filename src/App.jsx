@@ -1,4 +1,3 @@
-import "./App.css";
 import Navbar from "./components/Navbar";
 import Alert from "./components/Alert";
 import WordMeaning from "./components/WordMeaning";
