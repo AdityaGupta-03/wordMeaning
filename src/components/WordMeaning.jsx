@@ -17,6 +17,7 @@ export default function WordMeaning(props) {
     e.preventDefault();
     if (word) {
       await fetchMeaning(word);
+      document.title = `${word} - Meaning`;
     }
   };
 
