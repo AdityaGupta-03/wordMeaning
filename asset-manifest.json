@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/wordMeaning/static/js/main.08b12f6e.js",
+    "static/js/453.687009a2.chunk.js": "/wordMeaning/static/js/453.687009a2.chunk.js",
+    "index.html": "/wordMeaning/index.html",
+    "main.08b12f6e.js.map": "/wordMeaning/static/js/main.08b12f6e.js.map",
+    "453.687009a2.chunk.js.map": "/wordMeaning/static/js/453.687009a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.08b12f6e.js"
+  ]
+}
